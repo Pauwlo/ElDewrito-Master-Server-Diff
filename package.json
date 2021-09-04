@@ -1,0 +1,11 @@
+{
+  "name": "eldewrito-master-server-diff",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "production": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Pauwlo"
+}
